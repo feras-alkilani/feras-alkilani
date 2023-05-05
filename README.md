@@ -2,7 +2,7 @@
 
 <p align="center">Hey! I'm Feras from Syria.
  I'm a Frontend Developer.
-I living in Netherlands</p>
+I am living in Netherlands</p>
 
 <p align="center">
   <a href="mailto:eng.feras90@gmail.com">
