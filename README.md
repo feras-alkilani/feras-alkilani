@@ -5,17 +5,14 @@
 I living in Netherlands</p>
 
 <p align="center">
-  <a href="mailto:burakcaaglar@gmail.com">
+  <a href="mailto:eng.feras90@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-c14438??style=flat&logo=Gmail&logoColor=white">
   </a>
 
-  <a href="https://www.linkedin.com/in/caaglarburak/">
+  <a href="https://www.linkedin.com/in/feras-alkilani/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue">
   </a>
 
-  <a href="https://medium.com/@caglarburak">
-  <img src="https://img.shields.io/badge/-Medium-000??style=flat&logo=Medium&logoColor=white">
-  </a>
  </p>
 
 <p align="center">
